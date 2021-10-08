@@ -1,0 +1,28 @@
+{
+	"time difference (h)": 3.0,
+	"coordinates":
+	{
+		"x": "longitude",
+		"y": "latitude",
+		"lon": "longitude",
+		"lat": "latitude"
+	},
+	"variables":
+	{
+		"air temperature":
+		{
+			"nc name": "t2m",
+			"scale factor name": "scale_factor",
+			"offset name": "add_offset",
+			"invalid value name": "missing_value"
+		},
+		"air velocity":
+		{
+			"nc name": ["u10", "v10"],
+			"scale factor name": "scale_factor",
+			"offset name": "add_offset",
+			"invalid value name": "missing_value"
+		}
+	},
+	"file path": "/data90t/geosci/spetrov/Forcing/cams_2021_03_01-2021_03_04_3h_3hr.nc"
+}

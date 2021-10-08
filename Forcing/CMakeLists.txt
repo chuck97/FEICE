@@ -1,0 +1,10 @@
+set(
+	SOURCE
+	${SOURCE}
+	${CMAKE_CURRENT_SOURCE_DIR}/coords_transformation.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/forcing_interpolation.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/ice_forcing.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/air_forcing.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/water_forcing.cpp
+	PARENT_SCOPE
+)

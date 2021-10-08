@@ -1,0 +1,158 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Service",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Service"
+				},
+				{
+					"build" : "Mesh",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Mesh"
+				},
+				{
+					"build" : "Configuration",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Configuration"
+				},
+				{
+					"build" : "DynamicsTest",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "DynamicsTest"
+				},
+				{
+					"build" : "Advection",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Advection"
+				},
+				{
+					"build" : "Momentum",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Momentum"
+				},
+				{
+					"build" : "Forcing",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Forcing"
+				},
+				{
+					"build" : "Headers",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Headers"
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"name" : "DYNAMICS_TESTS",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "DYNAMICS_TESTS::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-DYNAMICS_TESTS-e3d704579959b72404ca.json",
+					"name" : "DYNAMICS_TESTS",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/build",
+		"source" : "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

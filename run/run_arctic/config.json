@@ -1,0 +1,10 @@
+{
+	"mesh params": "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/configs/config_arctic/mesh_config.json",
+	"model params": "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/configs/config_arctic/model_config.json",
+	"advection params": "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/configs/config_arctic/advection_config.json",
+	"output params": "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/configs/config_arctic/output_config.json",
+	"momentum params": "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/configs/config_arctic/momentum_config.json",
+	"ice forcing params" : "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/configs/config_arctic/ice_forcing_config.json",
+	"water forcing params" : "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/configs/config_arctic/water_forcing_config.json",
+	"air forcing params" : "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/configs/config_arctic/air_forcing_config.json"
+}

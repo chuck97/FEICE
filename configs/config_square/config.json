@@ -1,0 +1,7 @@
+{
+	"mesh params": "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/configs/config_square/mesh_config.json",
+	"model params": "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/configs/config_square/model_config.json",
+	"advection params": "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/configs/config_square/advection_config.json",
+	"output params": "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/configs/config_square/output_config.json",
+	"momentum params": "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/configs/config_square/momentum_config.json"
+}

@@ -1,0 +1,28 @@
+set(
+	HEADER
+        ${HEADER}
+        ${CMAKE_CURRENT_SOURCE_DIR}/external.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/string_trim.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/function.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/interpolation2d.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/numerical_integration.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/enum_classes.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/errors.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/config.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/coords_rotation.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/coords_transformation.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/forcing_interpolation.h
+	${CMAKE_CURRENT_SOURCE_DIR}/mat_vec.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/mesh.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/fct.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/dynamics_test.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/advection_assembling.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/advection.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/momentum_assembling.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/momentum.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/INMOST_ICE.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/ice_forcing.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/water_forcing.h
+        ${CMAKE_CURRENT_SOURCE_DIR}/air_forcing.h
+        PARENT_SCOPE
+)

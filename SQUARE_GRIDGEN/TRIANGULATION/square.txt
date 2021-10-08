@@ -1,0 +1,8 @@
+square domain
+output_dir: /data90t/geosci/spetrov/DYNAMICS_TEST_NEW/SQUARE_GRIDGEN/TRIANGULATION/output
+tr_size: 8000.0
+0.0 0.0
+0.0 512000.0
+512000.0 512000.0
+512000.0 0.0
+0.0 0.0

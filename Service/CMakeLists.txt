@@ -1,0 +1,10 @@
+set(
+	SOURCE
+	${SOURCE}
+	${CMAKE_CURRENT_SOURCE_DIR}/errors.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/function.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/mat_vec.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/numerical_integration.cpp
+	${CMAKE_CURRENT_SOURCE_DIR}/string_trim.cpp
+	PARENT_SCOPE
+)

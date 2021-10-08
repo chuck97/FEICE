@@ -1,0 +1,35 @@
+{
+	"time difference (h)": 1.0,
+	"coordinates":
+	{
+		"x": "x",
+		"y": "y",
+		"lon": "longitude",
+		"lat": "latitude"
+	},
+	"variables":
+	{
+		"ice concentration":
+		{
+			"nc name": "fice",
+			"scale factor name": "scale_factor",
+			"offset name": "add_offset",
+			"invalid value name": "missing_value"	
+		},
+		"ice height":
+		{
+			"nc name": "hice",
+			"scale factor name": "scale_factor",
+			"offset name": "add_offset",
+			"invalid value name": "missing_value"
+		}, 
+		"ice velocity":
+		{
+			"nc name": ["uice", "vice"],
+			"scale factor name": "scale_factor",
+			"offset name": "add_offset",
+			"invalid value name": "missing_value"
+		} 
+	},
+	"file path": "/data90t/geosci/spetrov/Forcing/dataset-topaz4-arc_2020_03_01-2020_03_04_1hr.nc"
+}

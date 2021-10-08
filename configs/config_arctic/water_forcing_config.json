@@ -1,0 +1,28 @@
+{
+	"time difference (h)": 1.0,
+	"coordinates":
+	{
+		"x": "x",
+		"y": "y",
+		"lon": "longitude",
+		"lat": "latitude"
+	},
+	"variables":
+	{
+		"water level":
+		{
+			"nc name": "ssh",
+			"scale factor name": "",
+			"offset name": "",
+			"invalid value name": "missing_value"	
+		},
+		"water velocity":
+		{
+			"nc name": ["u", "v"],
+			"scale factor name": "",
+			"offset name": "",
+			"invalid value name": "missing_value"
+		}
+	},
+	"file path": "/data90t/geosci/spetrov/Forcing/dataset-topaz4-arc_2020_03_01-2020_03_04_1hr.nc"
+}

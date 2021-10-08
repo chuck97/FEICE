@@ -1,0 +1,4 @@
+vrt_file: /data90t/geosci/spetrov/DYNAMICS_TEST_NEW/ARCTIC_GRIDGEN/txt/vrt.txt
+tri_file: /data90t/geosci/spetrov/DYNAMICS_TEST_NEW/ARCTIC_GRIDGEN/txt/tri.txt
+output_folder: /data90t/geosci/spetrov/DYNAMICS_TEST_NEW/ARCTIC_GRIDGEN/pmf/
+output_postfix: _arctic

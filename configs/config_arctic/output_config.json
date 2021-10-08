@@ -1,0 +1,17 @@
+{
+	"pvtu output directory": "/data90t/geosci/spetrov/DYNAMICS_TEST_NEW/run/run_arctic/screenshots_arctic/",
+	"number of screnshots": 100,
+	"verbose output": true,
+	"displayed variables":
+	[
+		"ice mass",
+		"ice height",
+		"ice concentration",   
+		"ice velocity",            
+		"ice pressure",              
+		"air velocity",  
+		"water velocity",
+		"water level",
+		"air temperature"     
+	]
+}
